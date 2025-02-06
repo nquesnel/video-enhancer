@@ -3,6 +3,5 @@ torchvision>=0.15.0
 opencv-python>=4.8.0
 basicsr>=1.4.2
 facexlib>=0.3.0
-filmation>=0.4.0
 tqdm>=4.65.0
 numpy>=1.24.0
